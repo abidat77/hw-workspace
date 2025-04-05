@@ -1,0 +1,22 @@
+{
+  "name": "hw-workspace",
+  "version": "1.0.0",
+  "description": "Browser based game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abidat77/hw-workspace.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "bika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abidat77/hw-workspace/issues"
+  },
+  "homepage": "https://github.com/abidat77/hw-workspace#readme"
+}
